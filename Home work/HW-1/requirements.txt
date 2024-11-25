@@ -1,0 +1,9 @@
+pandas
+yfinance
+pyarrow
+matplotlib
+plotly
+nbformat
+mplfinance
+summarytools
+Jinja2
