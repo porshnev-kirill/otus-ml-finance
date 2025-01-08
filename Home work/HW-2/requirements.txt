@@ -7,3 +7,5 @@ nbformat
 mplfinance
 summarytools
 Jinja2
+ta-lib
+scikit-learn
